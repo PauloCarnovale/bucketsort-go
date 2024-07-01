@@ -1,0 +1,32 @@
+Sorting 1000000 numbers from 0 to 999999999 using 1 buckets
+Time elapsed: 114.571698ms
+Sorting 1000000 numbers from 0 to 999999999 using 2 buckets
+Time elapsed: 74.242108ms
+Sorting 1000000 numbers from 0 to 999999999 using 3 buckets
+Time elapsed: 69.743255ms
+Sorting 1000000 numbers from 0 to 999999999 using 4 buckets
+Time elapsed: 67.269974ms
+Sorting 1000000 numbers from 0 to 999999999 using 5 buckets
+Time elapsed: 70.966897ms
+Sorting 1000000 numbers from 0 to 999999999 using 6 buckets
+Time elapsed: 70.387889ms
+Sorting 1000000 numbers from 0 to 999999999 using 7 buckets
+Time elapsed: 75.379065ms
+Sorting 1000000 numbers from 0 to 999999999 using 8 buckets
+Time elapsed: 69.797348ms
+Sorting 1000000 numbers from 0 to 999999999 using 9 buckets
+Time elapsed: 71.298447ms
+Sorting 1000000 numbers from 0 to 999999999 using 10 buckets
+Time elapsed: 82.006512ms
+Sorting 1000000 numbers from 0 to 999999999 using 11 buckets
+Time elapsed: 76.360493ms
+Sorting 1000000 numbers from 0 to 999999999 using 12 buckets
+Time elapsed: 98.839107ms
+Sorting 1000000 numbers from 0 to 999999999 using 13 buckets
+Time elapsed: 158.912063ms
+Sorting 1000000 numbers from 0 to 999999999 using 14 buckets
+Time elapsed: 75.101277ms
+Sorting 1000000 numbers from 0 to 999999999 using 15 buckets
+Time elapsed: 86.058526ms
+Sorting 1000000 numbers from 0 to 999999999 using 16 buckets
+Time elapsed: 87.243055ms
